@@ -8,5 +8,9 @@
 </head>
 <body>
     <?php echo "Hola Mundo" ?>
+
+    <ul>
+        <li><a href="index.php">Index</a></li>
+    </ul>
 </body>
 </html>
