@@ -7,6 +7,6 @@
     <title>Index</title>
 </head>
 <body>
-    <?php echo 'Desde Master'?>
+    <?php echo "Hola Mundo" ?>
 </body>
 </html>
